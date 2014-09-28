@@ -2,7 +2,7 @@
 Linux Kernel Powerball Module
 =============================
 
-A simple Linux Kernel module for getting a Powerball<sup>[0]</sup> Lottery "quick pick".
+A simple Linux Kernel module for getting a [Powerball](http://www.powerball.com/)<sup>TM</sup> Lottery "quick pick".
 
 
 PREREQUISITES
@@ -30,5 +30,3 @@ USAGE
 cat /dev/powerball
 ```
 > 12 23 34 45 56 17
-
-[0] http://www.powerball.com/

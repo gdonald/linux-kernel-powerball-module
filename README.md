@@ -8,7 +8,7 @@ A simple Linux Kernel module for getting a [Powerball](http://www.powerball.com/
 PREREQUISITES
 -------------
 
-Install Linux Kernel headers and source or a custom Linux Kernel.
+Install Linux Kernel headers and source or a [custom Linux Kernel](http://gregdonald.com/articles/how-to-build-latest-linux-kernel-from-linus-git-repo-on-debian-ubuntu/).
 
 
 INSTALL

@@ -1,0 +1,10 @@
+.powerball.ko.cmd
+.powerball.mod.o.cmd
+.powerball.o.cmd
+.tmp_versions/
+Module.symvers
+modules.order
+powerball.ko
+powerball.mod.c
+powerball.mod.o
+powerball.o

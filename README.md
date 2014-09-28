@@ -29,8 +29,6 @@ USAGE
 ```bash
 cat /dev/powerball
 ```
-```
-12 23 34 45 56 17
-```
+> 12 23 34 45 56 17
 
 [0] http://www.powerball.com/

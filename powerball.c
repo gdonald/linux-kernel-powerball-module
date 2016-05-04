@@ -15,8 +15,8 @@ MODULE_AUTHOR("Greg Donald");
 MODULE_DESCRIPTION("Powerball");
 
 #define MAX_WHITES 5
-#define MAX_WHITE 59
-#define MAX_RED 35
+#define MAX_WHITE 69
+#define MAX_RED 26
 
 static char *qp;
 static int ready;
